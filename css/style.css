@@ -19,6 +19,7 @@ p {
 	width: 300px;
 	height: 100px;
 	text-align: center;
+	background-color: white;
 }
 
 .body {
@@ -27,6 +28,7 @@ p {
 	width: 500px;
 	height: 300px;
 	text-align: left;
+	background-color: white;
 }
 
 #randomNumber {
@@ -36,6 +38,7 @@ p {
 	height: 100px;
 	float: left;
 	margin-bottom: 3px;
+	background-color: white;
 }
 
 #gameStatus {
@@ -44,6 +47,7 @@ p {
 	width: 100px;
 	height: 100px;
 	float: left;
+	background-color: white;
 }
 
 #crystals {
@@ -58,4 +62,5 @@ p {
 	height: 100px;
 	position: relative;
 	margin-top: 84px;
+	background-color: white;
 }
