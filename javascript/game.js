@@ -64,6 +64,7 @@ $(document).ready(function() {
     };
     function restartGame() {
         counter = 0;
+        $("#scoreTracker").text(("Your score: " + counter + "!"));
         randomNumber = numbers[Math.floor(Math.random() * numbers.length)];
         // console.log(randomNumber);
         // Display numbers in randomNumber div
